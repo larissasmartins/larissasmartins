@@ -1,7 +1,7 @@
-### Oi, eu sou Larissa, recém abraçada pela comunidada da programação e tecnologia 👋
+### Oi, eu sou Larissa, recém abraçada pela comunidade da programação e tecnologia 👋
 
 
-- 🌱 Atualmente estudando HTML, CSS, JAVASCRIPT e PYTHON
+- 🌱 Atualmente estudando HTML, CSS e JAVASCRIPT.
 
 
 <div align="center">
