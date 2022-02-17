@@ -2,7 +2,7 @@
 
 :globe_with_meridians: I'm a beginner dev graduated in International Relations;</br>
 :books: Currently studying HTML5, CSS3, Javascript and React;</br>
-:chart: I’m looking to collaborate on projects that can help me improve my skills in web development and data exploration;</br>
+:chart: I’m looking to collaborate on projects that can help me to improve my skills in web development and data exploration;</br>
 
 
 <div align="center">
