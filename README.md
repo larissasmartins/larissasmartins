@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, my name is Larissa!</br> I'd love to make life easier and smarter through tech :ok_hand:</h1 align="center">
 </br>
 :globe_with_meridians: I'm a beginner dev graduated in International Relations;</br>
-:books: Currently studying HTML5, CSS3, Javascript and PHP;</br>
+:books: Currently studying HTML5, CSS3 and Javascript;</br>
 :chart: I’m looking to collaborate on projects that can help me to improve my skills in web development and data exploration;</br>
 
 </br>
