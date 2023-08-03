@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, my name is Larissa!</h1 align="center">
+<h1 align="center"> Hello, my name is Larissa :)</h1 align="center">
 </br>
 :globe_with_meridians: I'm a beginner dev graduated in International Relations</br>
 :books: Currently studying Javascript, React and Tailwind</br>
