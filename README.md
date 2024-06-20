@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, my name is Larissa :)</h1 align="center">
 </br>
-:globe_with_meridians: I'm a beginner dev graduated in International Relations</br>
+:globe_with_meridians: I'm a beginner dev</br>
 :books: Currently studying Javascript, React and Tailwind</br>
 :chart: I’m looking to collaborate on projects that can help me to improve my skills in web development</br>
 
